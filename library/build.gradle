@@ -25,6 +25,7 @@ android {
             }
         }
     }
+    namespace 'com.anjlab.android.iab.v3'
 }
 
 dependencies {
